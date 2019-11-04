@@ -1,6 +1,6 @@
 /**
 * Programmer: Manpreet Sandhu
-* Student ID: 991493154
+* 
 **/
 
 #include <stdio.h>
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
 	/** if-else statement to check max_count is greater than 70 and less than or equal to 70 **/
 	if(max_count > 70) {
 
-		scalingFactor = (double)70/max_count;//calculating scaling factor by 70 ÷ max_count
+		scalingFactor = (double)70/max_count;//calculating scaling factor by 70 Ã· max_count
 
 	} else if(max_count <= 70) {
 
